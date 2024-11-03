@@ -85,16 +85,10 @@ Certifique-se de ter um banco de dados Oracle configurado e em execução. Conec
 3. Executar o script de criação e inserção de dados
 Navegue até o diretório onde o arquivo CRIACAO_INSERCAO_DADOS.sql está localizado e execute o script para criar as tabelas e inserir os dados:
 
-SQL
-
-@CRIACAO_INSERCAO_DADOS.sql
 
 4. Executar as consultas SQL relevantes
 Navegue até o diretório onde o arquivo CONSULTAS_RELEVANTES_DADOS.sql está localizado e execute o script para realizar as consultas solicitadas:
 
-SQL
-
-@CONSULTAS_RELEVANTES_DADOS.sql
 
 ## Historico de lançamentos
 
