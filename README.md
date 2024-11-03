@@ -82,7 +82,7 @@ Primeiro, faça o clone deste repositório localmente usando o Git:
 git clone https://github.com/AmandaFragnan/FIAP_FASE3.git
 
 2. Conectar ao banco de dados Oracle
-   
+
 Certifique-se de ter um banco de dados Oracle configurado e em execução. Conecte-se ao banco de dados usando uma ferramenta de sua escolha, como Developer ou qualquer outra ferramenta de gerenciamento de banco de dados Oracle.
 
 3. Executar o script de criação e inserção de dados
