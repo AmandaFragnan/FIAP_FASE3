@@ -76,19 +76,25 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 Primeiro, faça o clone deste repositório localmente usando o Git:
 
-git clone https://github.com/AmandaFragnan/FIAP_FASE2.git
+git clone https://github.com/AmandaFragnan/FIAP_FASE3.git
 
-2. Instalar dependências
-
-Certifique-se de ter todas as dependências instaladas. Se estiver usando Python, você pode instalar os pacotes necessários com:
-
-pip install -r requirements.txt
-
-3. Executar o código
+2. Conectar ao banco de dados Oracle
    
-Dependendo da linguagem e estrutura do projeto, execute o código usando o comando apropriado. Para Python, por exemplo:
+Certifique-se de ter um banco de dados Oracle configurado e em execução. Conecte-se ao banco de dados usando uma ferramenta de sua escolha, como Developer ou qualquer outra ferramenta de gerenciamento de banco de dados Oracle.
 
-python main.py
+3. Executar o script de criação e inserção de dados
+Navegue até o diretório onde o arquivo CRIACAO_INSERCAO_DADOS.sql está localizado e execute o script para criar as tabelas e inserir os dados:
+
+SQL
+
+@CRIACAO_INSERCAO_DADOS.sql
+
+4. Executar as consultas SQL relevantes
+Navegue até o diretório onde o arquivo CONSULTAS_RELEVANTES_DADOS.sql está localizado e execute o script para realizar as consultas solicitadas:
+
+SQL
+
+@CONSULTAS_RELEVANTES_DADOS.sql
 
 ## Historico de lançamentos
 
