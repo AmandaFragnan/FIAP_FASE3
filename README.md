@@ -46,9 +46,9 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>.gitignore</b>: Nesta pasta ficarão os  arquivos ou pastas devem ser ignorados pelo Git durante os commits
 
-- <b>PYTHON_E_ALEM</b>: aqui estão os arquivos com o codigo python e ajuste para conexão do banco em nuvem.
+- <b>CRIACAO_INSERCAO_DADOS.sql</b>: aqui estão os códigos SQL para criação das tabelas.
 
-- <b>requirements.txt</b>: Lista  com todas as dependências ou bibliotecas necessárias para que o projeto funcione corretamente.
+- <b>CONSULTAS_RELEVANTES_DADOS.sql</b>: aqui estão as consultas SQL solicitadas.
 
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
