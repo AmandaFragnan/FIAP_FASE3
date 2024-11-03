@@ -25,20 +25,38 @@
 
 ## 📜 Descrição
 
-Projeto: Este projeto visa criar um modelo de banco de dados para armazenar e analisar informações sobre a produção agrícola e pecuária no Brasil, utilizando dados de órgãos como IBGE.
+### Projeto
+Este projeto visa criar um modelo de banco de dados para armazenar e analisar informações sobre a produção agrícola e pecuária no Brasil, utilizando dados de órgãos como IBGE e CONAB.
 
-* Objetivo Geral
+### Objetivo Geral
 Aplicar os conceitos de modelagem de dados aprendidos nos capítulos 7, 8, 9 e 10 para criar um modelo de banco de dados que armazene e analise informações sobre a produção agrícola no Brasil.
 
-* Funcionalidades da Solução
-  
-1. 
+### Funcionalidades da Solução
+1. Armazenamento eficiente de dados sobre produção agrícola.
+2. Análise detalhada da evolução de culturas e produtividade ao longo dos anos.
 
-Benefícios Esperados:
+### Benefícios Esperados
+- Melhor compreensão da produção agrícola.
+- Facilitação na tomada de decisões para políticas agrícolas.
 
-* 
 
-
+## 📊 Dicionário de Dados
+| Tabela             | Coluna         | Descrição                          |
+|--------------------|----------------|------------------------------------|
+| PRODUTO_AGRICOLA   | ID             | Identificador único do produto     |
+|                    | NOME           | Nome do produto agrícola           |
+|                    | UNIDADE        | Unidade de medida                  |
+| PRODUTO_PECUARIO   | ID             | Identificador único do produto     |
+|                    | NOME           | Nome do produto pecuário           |
+|                    | UNIDADE        | Unidade de medida                  |
+| PRODUCAO_AGRICOLA  | ID             | Identificador único da produção    |
+|                    | PRODUTO_ID     | Identificador do produto agrícola  |
+|                    | VALOR          | Valor da produção                  |
+|                    | UNIDADE        | Unidade de medida                  |
+| PRODUCAO_PECUARIA  | ID             | Identificador único da produção    |
+|                    | PRODUTO_ID     | Identificador do produto pecuário  |
+|                    | VALOR          | Valor da produção                  |
+|                    | UNIDADE        | Unidade de medida                  |
 
 ## 📁 Estrutura de pastas
 
