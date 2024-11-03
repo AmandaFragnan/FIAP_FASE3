@@ -26,7 +26,7 @@
 ## 📜 Descrição
 
 ### Projeto
-Este projeto visa criar um modelo de banco de dados para armazenar e analisar informações sobre a produção agrícola e pecuária no Brasil, utilizando dados de órgãos como IBGE e CONAB.
+Este projeto visa criar um modelo de banco de dados para armazenar e analisar informações sobre a produção agrícola e pecuária no Brasil, utilizando dados de órgãos como IBGE.
 
 ### Objetivo Geral
 Aplicar os conceitos de modelagem de dados aprendidos nos capítulos 7, 8, 9 e 10 para criar um modelo de banco de dados que armazene e analise informações sobre a produção agrícola no Brasil.
