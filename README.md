@@ -42,6 +42,7 @@ Aplicar os conceitos de modelagem de dados aprendidos nos capítulos 7, 8, 9 e 1
 ### Fonte dos Dados
 Os dados utilizados para inserir as informações no banco foram obtidos do site do IBGE, especificamente da seção sobre produção agropecuária: IBGE - Produção Agropecuária.
 
+https://www.ibge.gov.br/explica/producao-agropecuaria/
 
 ## 📊 Dicionário de Dados
 | Tabela             | Coluna         | Descrição                          |
