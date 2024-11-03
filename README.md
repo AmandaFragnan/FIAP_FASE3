@@ -83,12 +83,13 @@ git clone https://github.com/AmandaFragnan/FIAP_FASE3.git
 Certifique-se de ter um banco de dados Oracle configurado e em execução. Conecte-se ao banco de dados usando uma ferramenta de sua escolha, como Developer ou qualquer outra ferramenta de gerenciamento de banco de dados Oracle.
 
 3. Executar o script de criação e inserção de dados
+   
 Navegue até o diretório onde o arquivo CRIACAO_INSERCAO_DADOS.sql está localizado e execute o script para criar as tabelas e inserir os dados:
 
 
-4. Executar as consultas SQL relevantes
+5. Executar as consultas SQL relevantes
+   
 Navegue até o diretório onde o arquivo CONSULTAS_RELEVANTES_DADOS.sql está localizado e execute o script para realizar as consultas solicitadas:
-
 
 ## Historico de lançamentos
 
