@@ -44,8 +44,6 @@ Benefícios Esperados:
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
-- <b>.gitignore</b>: Nesta pasta ficarão os  arquivos ou pastas devem ser ignorados pelo Git durante os commits
-
 - <b>CRIACAO_INSERCAO_DADOS.sql</b>: aqui estão os códigos SQL para criação das tabelas.
 
 - <b>CONSULTAS_RELEVANTES_DADOS.sql</b>: aqui estão as consultas SQL solicitadas.
