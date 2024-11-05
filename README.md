@@ -62,6 +62,10 @@ https://www.ibge.gov.br/explica/producao-agropecuaria/
 |                    | VALOR          | Valor da produção                  |
 |                    | UNIDADE        | Unidade de medida                  |
 
+## Diagrama Entidade-Relacionamento (MER)
+![image](https://github.com/user-attachments/assets/255a7ebb-64eb-4f84-bf14-aa72b583cb3f)
+
+
 ## 📁 Estrutura de pastas
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
